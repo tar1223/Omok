@@ -1,7 +1,7 @@
 # Omok
 
 Omok(Gomoku) game using AlphaGo and AlphaZero.  
-The game is based on renju rules.
+This game is based on renju rules.
 
 ![image](https://user-images.githubusercontent.com/61582074/229351017-d5218963-2769-4851-94cb-8b8662985d0e.png)
 
