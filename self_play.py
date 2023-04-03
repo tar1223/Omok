@@ -8,7 +8,7 @@ import pickle
 import os
 
 # 파라미터 준비
-SP_GAME_COUNT = 50 # 셀프 플레이를 수행할 게임 수
+SP_GAME_COUNT = 100 # 셀프 플레이를 수행할 게임 수
 SP_TEMPERATURE = 1.0 # 볼츠만 분포의 온도 파라미터
 
 # 선 수를 둔 플레이어의 가치

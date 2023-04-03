@@ -4,7 +4,7 @@ from shutil import copy
 import tensorflow as tf
 
 # 파라미터 준비
-EN_GAME_COUNT = 200 # 평가 1회당 게임 수
+EN_GAME_COUNT = 10 # 평가 1회당 게임 수
 EN_TEMPERATURE = 1.0
 
 # 선 수를 둔 플레이어의 포인트
