@@ -16,7 +16,7 @@ This game is based on renju rules.
 
 ## Train
 
-Run 'train_cycle.py'  
+Run 'train_cycle.py'.  
 'data' and 'model' folders are created.  
 For each game, data that two models play against each other is stored in the 'data' folder.  
 The learned model file is stored in the 'model' folder.  
@@ -25,4 +25,5 @@ The learned model file is stored in the 'model' folder.
 ## Play
 
 First, you have to train.  
-And you can enjoy this game by running 'human_play.py'.
+And you can enjoy this game by running 'human_play.py'.  
+*(Repeat 'train_cycle.py' if you want to improve performance.)*
